@@ -1,2 +1,2 @@
 # ArdorTemple
-Настройки для Ardor
+Настройки для Ardor Gaming Temple V2
