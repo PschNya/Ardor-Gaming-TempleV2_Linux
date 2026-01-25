@@ -1,0 +1,2 @@
+# ArdorTemple
+Настройки для Ardor
